@@ -1,4 +1,4 @@
-package com.darkempire78.opencalculator.spec
+package com.nandra.ahaexamcalculator.spec
 
 data class UpdateArrowDataSpec(
     val originId: Int,

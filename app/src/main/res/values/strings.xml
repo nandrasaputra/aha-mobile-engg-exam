@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name_display">Calculator</string>
+    <string name="app_name_display">Nandra Aha Calc</string>
 
     <!-- Numbers -->
     <string name="zero" translatable="false">0</string>

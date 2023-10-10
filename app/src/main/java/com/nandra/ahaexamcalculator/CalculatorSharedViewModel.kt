@@ -1,9 +1,9 @@
-package com.darkempire78.opencalculator
+package com.nandra.ahaexamcalculator
 
 import Event
 import androidx.lifecycle.ViewModel
-import com.darkempire78.opencalculator.spec.ArrowClickEventSpec
-import com.darkempire78.opencalculator.spec.UpdateArrowDataSpec
+import com.nandra.ahaexamcalculator.spec.ArrowClickEventSpec
+import com.nandra.ahaexamcalculator.spec.UpdateArrowDataSpec
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlin.random.Random

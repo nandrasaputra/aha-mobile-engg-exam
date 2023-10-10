@@ -1,4 +1,4 @@
-package com.darkempire78.opencalculator
+package com.nandra.ahaexamcalculator
 
 import android.content.Intent
 import android.net.Uri
@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
-import com.darkempire78.opencalculator.databinding.ActivityAboutBinding
+import com.nandra.ahaexamcalculator.databinding.ActivityAboutBinding
 
 class AboutActivity : AppCompatActivity() {
     private lateinit var binding: ActivityAboutBinding

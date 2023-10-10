@@ -14,7 +14,7 @@
         android:id="@+id/calculatorFragment2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="com.darkempire78.opencalculator.CalculatorFragment"
+        android:name="com.nandra.ahaexamcalculator.CalculatorFragment"
         tools:layout="@layout/calculator_fragment"
         android:layout_weight="1"
         app:is_show_option_button="false"/>
@@ -56,7 +56,7 @@
         android:id="@+id/calculatorFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="com.darkempire78.opencalculator.CalculatorFragment"
+        android:name="com.nandra.ahaexamcalculator.CalculatorFragment"
         tools:layout="@layout/calculator_fragment"
         android:layout_weight="1"
         app:is_show_option_button="true"/>

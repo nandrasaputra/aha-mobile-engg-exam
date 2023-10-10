@@ -1,10 +1,10 @@
-package com.darkempire78.opencalculator
+package com.nandra.ahaexamcalculator
 
 import android.os.Bundle
 import android.view.View
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import com.darkempire78.opencalculator.databinding.ActivityMainBinding
+import com.nandra.ahaexamcalculator.databinding.ActivityMainBinding
 import java.util.Locale
 
 

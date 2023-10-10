@@ -1,10 +1,8 @@
-package com.darkempire78.opencalculator
+package com.nandra.ahaexamcalculator
 
 import android.content.Intent
 import android.content.Intent.FLAG_ACTIVITY_NEW_TASK
-import android.graphics.drawable.Icon
 import android.os.Build
-import android.service.quicksettings.Tile
 import android.service.quicksettings.TileService
 import androidx.annotation.RequiresApi
 

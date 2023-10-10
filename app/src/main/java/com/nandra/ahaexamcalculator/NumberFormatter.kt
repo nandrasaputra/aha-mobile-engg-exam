@@ -1,7 +1,6 @@
-package com.darkempire78.opencalculator
+package com.nandra.ahaexamcalculator
 
 import java.text.DecimalFormat
-import java.text.DecimalFormatSymbols
 
 object NumberFormatter {
     fun format(text: String, decimalSeparatorSymbol : String, groupingSeparatorSymbol : String): String {

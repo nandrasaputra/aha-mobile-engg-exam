@@ -1,4 +1,4 @@
-package com.darkempire78.opencalculator
+package com.nandra.ahaexamcalculator
 
 import android.app.Activity
 import android.content.Context

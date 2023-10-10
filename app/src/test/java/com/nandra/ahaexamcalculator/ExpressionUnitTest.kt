@@ -1,4 +1,4 @@
-package com.darkempire78.opencalculator
+package com.nandra.ahaexamcalculator
 
 import org.junit.Assert.assertEquals
 import org.junit.BeforeClass

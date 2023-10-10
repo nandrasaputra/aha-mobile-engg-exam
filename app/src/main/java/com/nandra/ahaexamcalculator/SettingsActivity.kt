@@ -1,7 +1,6 @@
-package com.darkempire78.opencalculator
+package com.nandra.ahaexamcalculator
 
 import android.content.Intent
-import android.content.res.Resources.Theme
 import android.net.Uri
 import android.os.Build
 import android.os.Bundle
